@@ -1,11 +1,11 @@
 {
-    "name": "firstios",
-    "short_name": "firstios",
+    "name": "First iOS App",
+    "short_name": "First iOS App",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFF7ED",
+    "theme_color": "#F97316",
+    "description": "hey its my first ios app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
